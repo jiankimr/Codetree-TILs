@@ -2,7 +2,6 @@
 using namespace std;
 
 int main() {
-    // Please write your code here.
     int weight = 13;
     double moon = 0.165;
     
