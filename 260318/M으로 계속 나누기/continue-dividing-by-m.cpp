@@ -9,8 +9,8 @@ int main() {
     cin >> M;
 
     while (N!=0){
-        N /= M;
         cout << N <<endl;
+        N /= M;
     }
     return 0;
 }
